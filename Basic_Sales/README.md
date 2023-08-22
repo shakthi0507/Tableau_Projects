@@ -1,6 +1,6 @@
 # Basic_Sales
 
-Workout you will develop a basic but insightful dashboard for personal finance analysis.
+ Develop a basic but insightful dashboard for personal finance analysis.
 
 ## Overview
 
